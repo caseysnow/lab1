@@ -8,13 +8,13 @@ header {
 }
 body {
 	font-family: Futura, Trebuchet MS;
-	color: yellow;
+	color: #0000FF;
 	font-size: 16x;
 }
 
 h1{
 	font-family: Futura, Trebuchet MS;
-	color: darkred;
+	color: #FF0000;
 	font-size: 20px;
 }
 #WPI{
