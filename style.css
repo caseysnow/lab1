@@ -1,5 +1,5 @@
-<head>
 <html>
+<head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <meta name="viewport" content="width=device-width, user-scalable=no" />
 </head>
@@ -9,7 +9,7 @@ header {
  color: #0000FF;
  font-size: 25px;
 }
-<body>
+body,
 body {
 	font-family: Futura, Trebuchet MS;
 	color: #0000FF;
@@ -31,5 +31,4 @@ h1{
 #content {
     padding:3px;
 }
-</body>
 </html>
