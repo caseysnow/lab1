@@ -1,26 +1,28 @@
-head{
+<head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <meta name="viewport" content="width=device-width, user-scalable=no" />
-}
 
-header {
  font-family: Futura, Trebuchet MS;
  font-weight: bold condensed;
  color: #0000FF;
  font-size: 25px;
-}
 
-body {
-	font-family: Futura, Trebuchet MS;
+</head>
+
+
+<body>
+font-family: Futura, Trebuchet MS;
 	color: #0000FF;
 	font-size: 16x;
-}
+</body>
 
-h1{
+
+<h1>
 	font-family: Futura, Trebuchet MS;
 	color: #FF0000;
 	font-size: 20px;
-}
+</h1>
+
 #WPI{
     /*center the image*/
     display: block; 
