@@ -9,19 +9,19 @@
 
 </head>
 
-
-<body>
+<style>
+body{
 font-family: Futura, Trebuchet MS;
 	color: #0000FF;
 	font-size: 16x;
-</body>
+}
 
 
-<h1>
+h1{
 	font-family: Futura, Trebuchet MS;
 	color: #FF0000;
 	font-size: 20px;
-</h1>
+}
 
 #WPI{
     /*center the image*/
@@ -33,3 +33,4 @@ font-family: Futura, Trebuchet MS;
 #content {
     padding:3px;
 }
+</style>
